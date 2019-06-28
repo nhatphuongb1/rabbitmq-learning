@@ -1,0 +1,11 @@
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.deps.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.runtimeconfig.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.runtimeconfig.dev.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.2\RPCClient.pdb
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.csproj.CoreCompileInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.AssemblyInfoInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.AssemblyInfo.cs
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.pdb
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.2\RPCClient.csprojAssemblyReference.cache

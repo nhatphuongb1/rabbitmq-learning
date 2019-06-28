@@ -1,0 +1,11 @@
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\bin\Debug\netcoreapp2.2\NewTask.deps.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\bin\Debug\netcoreapp2.2\NewTask.runtimeconfig.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\bin\Debug\netcoreapp2.2\NewTask.runtimeconfig.dev.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\bin\Debug\netcoreapp2.2\NewTask.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.csproj.CoreCompileInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.AssemblyInfoInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.AssemblyInfo.cs
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\bin\Debug\netcoreapp2.2\NewTask.pdb
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.csprojAssemblyReference.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\NewTask\obj\Debug\netcoreapp2.2\NewTask.pdb

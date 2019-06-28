@@ -1,0 +1,11 @@
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.2\EmitLog.deps.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.2\EmitLog.runtimeconfig.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.2\EmitLog.runtimeconfig.dev.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.2\EmitLog.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.2\EmitLog.csproj.CoreCompileInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.2\EmitLog.AssemblyInfoInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.2\EmitLog.AssemblyInfo.cs
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.2\EmitLog.pdb
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.2\EmitLog.csprojAssemblyReference.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.2\EmitLog.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.2\EmitLog.pdb

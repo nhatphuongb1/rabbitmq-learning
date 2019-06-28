@@ -1,0 +1,11 @@
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.deps.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.runtimeconfig.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.runtimeconfig.dev.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.AssemblyInfoInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.AssemblyInfo.cs
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.2\ReceiveLogsTopic.pdb
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.pdb
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.2\ReceiveLogsTopic.csprojAssemblyReference.cache

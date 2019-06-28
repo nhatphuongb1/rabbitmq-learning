@@ -1,0 +1,11 @@
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.deps.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.runtimeconfig.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.runtimeconfig.dev.json
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.csproj.CoreCompileInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.AssemblyInfoInputs.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.AssemblyInfo.cs
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\bin\Debug\netcoreapp2.2\RPCServer.pdb
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.csprojAssemblyReference.cache
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.dll
+D:\Development\dotnet\windows-service-samples\RabbitMQTutorial\RPCServer\obj\Debug\netcoreapp2.2\RPCServer.pdb
